@@ -24,7 +24,7 @@ Date: 2/16/2013
 
 ---
 
-##Title: Soka Education and Digital Education Technologies:Massively Open Online Courses
+##Title: Soka Education and Digital Education Technologies: Massively Open Online Courses
 
 Location: Soka University of America
 
