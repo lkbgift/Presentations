@@ -5,7 +5,7 @@ This is a repository of conference presentations and training sessions I give. T
 
 ---
 
-Title: How the Internet Works
+##Title: How the Internet Works
 Location: [Aquent](http://aquent.us): Vitamin T
 
 Purpose: Staff Training 
@@ -14,7 +14,7 @@ Date: 3/13/2013
 
 ---
 
-Title: Soka Education and Digital Education Technologies:Massively Open Online Courses
+##Title: Soka Education and Digital Education Technologies:Massively Open Online Courses
 
 Location: Soka University of America
 
@@ -24,7 +24,7 @@ Date: 2/16/2013
 
 ---
 
-Title: Soka Education and Digital Education Technologies:Massively Open Online Courses
+##Title: Soka Education and Digital Education Technologies:Massively Open Online Courses
 
 Location: Soka University of America
 
@@ -34,7 +34,7 @@ Date: 2/16/2013
 
 ---
 
-Title: WordPress 3.0+
+##Title: WordPress 3.0+
 
 Location: Saddleback College
 
