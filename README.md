@@ -5,7 +5,7 @@ This is a repository of conference presentations and training sessions I give. T
 
 ---
 
-##How the Internet Works
+##[How the Internet Works](https://github.com/lkbgift/Presentations/tree/master/How%20the%20Internet-Makers%20Works)
 Location: [Aquent](http://aquent.us): [Vitamin T](http://vitamintalent.com/)
 
 Purpose: Staff Training 
@@ -14,7 +14,7 @@ Date: 3/13/2013
 
 ---
 
-##Soka Education and Digital Education Technologies:Massively Open Online Courses
+##[Soka Education and Digital Education Technologies:Massively Open Online Courses](https://github.com/lkbgift/Presentations/tree/master/Soka%20Education%20and%20Digital%20Education%20Technologies)
 
 Location: Soka University of America
 
@@ -24,7 +24,7 @@ Date: 2/16/2013
 
 ---
 
-##WordPress 3.0+
+##[WordPress Platform Structure](https://github.com/lkbgift/Presentations/tree/master/WordPress%20Basics)
 
 Location: Saddleback College
 
